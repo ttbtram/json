@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Joe Biden",
+    "period": "2021 - nay",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Joe_Biden_presidential_portrait_%28cropped%29.jpg/225px-Joe_Biden_presidential_portrait_%28cropped%29.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Donald Trump",
+    "period": "2017 - 2021",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/225px-Donald_Trump_official_portrait_%28cropped%29.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Barack Obama",
+    "period": "2009 - 2017",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/President_Barack_Obama%2C_2012_portrait_crop.jpg/225px-President_Barack_Obama%2C_2012_portrait_crop.jpg"
+  },
+  {
+    "id": 4,
+    "name": "George W. Bush",
+    "period": "2001 - 2009",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/225px-George-W-Bush.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Bill Clinton",
+    "period": "1993 - 2001",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/225px-Bill_Clinton.jpg"
+  },
+  {
+    "id": 6,
+    "name": "George H. W. Bush",
+    "period": "1989 - 1993",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/225px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ronald Reagan",
+    "period": "1981 - 1989",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ronald_Reagan_1981_presidential_portrait.jpg/225px-Ronald_Reagan_1981_presidential_portrait.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jimmy Carter",
+    "period": "1977 - 1981",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/225px-JimmyCarterPortrait2.jpg"
+  }
+]
